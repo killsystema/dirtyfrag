@@ -164,7 +164,7 @@ gcc -static -O0 -Wall -o dirtyfrag dirtyfrag.c -lutil
 ```bash
 sudo ./dirtyfrag --fix
 ```
-![DirtyFrag Banner](https://raw.githubusercontent.com/killsystema/dirtyfrag/refs/heads/main/verbose.png)
+![DirtyFrag Banner](https://raw.githubusercontent.com/killsystema/dirtyfrag/refs/heads/main/fix.png)
 
 ## Verbose Mode
 
@@ -172,7 +172,7 @@ sudo ./dirtyfrag --fix
 ./dirtyfrag --verbose
 ```
 
-
+![DirtyFrag Banner](https://raw.githubusercontent.com/killsystema/dirtyfrag/refs/heads/main/verbose.png)
 
 ---
 
