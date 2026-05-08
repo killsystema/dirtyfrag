@@ -312,6 +312,56 @@ The authors assume no liability for misuse or damages caused by this software.
 
 ---
 
+---
+
+# 🤖 DirtyFrag AI Edition
+
+<div align="center">
+
+### Enhanced Research Version by Killsystema
+
+AI-assisted exploitation workflow, automation and defensive research enhancements.
+
+</div>
+
+This version introduces additional improvements focused on:
+
+* Intelligent exploit orchestration
+* Automated environment analysis
+* Advanced vulnerability detection
+* Research workflow optimization
+* Enhanced debugging and logging
+* Automated mitigation validation
+
+---
+
+# 👨‍💻 Author
+
+### Killsystema
+
+Security Researcher • Pentester • Linux Security Enthusiast
+
+* AI-enhanced research adaptation
+* Workflow improvements
+* Advanced testing automation
+* Research optimization layer
+
+---
+
+# 📚 References
+
+* [Lawrence Systems – Dirty Frag Analysis & Mitigations](https://forums.lawrencesystems.com/t/how-linux-dirty-frags-works-and-mitigations/26752)
+* [Original DirtyFrag Repository](https://github.com/V4bel/dirtyfrag.git)
+
+---
+
+<div align="center">
+
+🔥 DirtyFrag AI Edition — Research Enhanced by Killsystema
+
+</div>
+
+
 # 📜 License
 
 GNU General Public License v2.0
@@ -325,3 +375,6 @@ GNU General Public License v2.0
 Made for Linux security research 🔥
 
 </div>
+
+
+
