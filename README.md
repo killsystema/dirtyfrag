@@ -148,23 +148,31 @@ gcc -static -O0 -Wall -o dirtyfrag dirtyfrag.c -lutil
 ./dirtyfrag
 ```
 
+![DirtyFrag Banner](https://raw.githubusercontent.com/killsystema/dirtyfrag/refs/heads/main/terna.png)
+
+
 ## Scan System
 
 ```bash
 ./dirtyfrag --scan
 ```
 
+![DirtyFrag Banner](https://raw.githubusercontent.com/killsystema/dirtyfrag/refs/heads/main/terminal.png)
+
 ## Apply Mitigation
 
 ```bash
 sudo ./dirtyfrag --fix
 ```
+![DirtyFrag Banner](https://raw.githubusercontent.com/killsystema/dirtyfrag/refs/heads/main/verbose.png)
 
 ## Verbose Mode
 
 ```bash
 ./dirtyfrag --verbose
 ```
+
+
 
 ---
 
